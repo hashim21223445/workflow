@@ -43,6 +43,6 @@
     "@nuxt/schema": "4.3.1",
     "@types/node": "catalog:",
     "@workflow/tsconfig": "workspace:*",
-    "nuxt": "4.0.0"
+    "nuxt": "4.5.1"
   }
 }
