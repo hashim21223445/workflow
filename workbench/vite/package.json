@@ -18,7 +18,7 @@
     "lodash.chunk": "^4.2.0",
     "nitro": "catalog:",
     "openai": "^6.6.0",
-    "vite": "^7.1.12",
+    "vite": "^6.4.4",
     "workflow": "workspace:*",
     "@workflow/ai": "workspace:*",
     "zod": "catalog:"
